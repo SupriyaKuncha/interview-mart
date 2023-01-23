@@ -55,7 +55,7 @@ header{
     padding: 7px; 
     font-size: 17px;
     letter-spacing: 1px;
-    color: #5758a7;
+    color: #434479;
 }
 .navItem a:hover{
     background-color: #32336fbd;
@@ -95,6 +95,7 @@ header{
         padding-top: 20px;
         letter-spacing: 3px;
     }
+
  .companies{
     display: flex;
     margin-top: 55px;

@@ -45,6 +45,8 @@ h1{
     font-family: "Montserrat",sans-serif;
   }
   h4{
-    font-family: "Poppins",sans-serif;
-   
+    /* font-family: "Poppins",sans-serif; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1em;
+  
   }
